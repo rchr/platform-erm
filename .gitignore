@@ -1,0 +1,11 @@
+.DS_Store
+*.swp
+*.swo
+node_modules
+yarn-error.log
+ModuleDescriptor.json
+
+
+/.tern-project
+/.settings
+.project
