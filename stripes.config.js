@@ -19,6 +19,7 @@ module.exports = {
     '@folio/tags': {},
     '@folio/users': {},
     '@folio/vendors': {},
+    '@folio/plugin-find-vendor': {},
   },
   branding: {
     logo: {
