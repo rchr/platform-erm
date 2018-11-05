@@ -265,6 +265,17 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
+"@folio/erm-usage@~0.1.0":
+  version "0.1.10005"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-usage/-/erm-usage-0.1.10005.tgz#076f03eeb0a7a5c948f37f5775584f01fbaec0f4"
+  integrity sha512-S6/iqPfKo1hnFHaDhJ9muI0DJU9bfKmK1scPwEIVCzmWxRk63T3X3ZBYCm+xLbxa/VDRWrRCwT643vpjeRMtxw==
+  dependencies:
+    lodash "^4.17.11"
+    prop-types "^15.6.0"
+    react-intl "^2.7.1"
+    react-router-dom "^4.1.1"
+    redux-form "^7.4.2"
+
 "@folio/erm@~1.0.0":
   version "1.0.100019"
   resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm/-/erm-1.0.100019.tgz#038ba0c9675b4bfac6e9cde3777e4aaad73989f4"
@@ -6688,7 +6699,7 @@ lodash@^3.2.0:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.10.1.tgz#5bf45e8e49ba4189e17d482789dfd15bd140b7b6"
   integrity sha1-W/Rejkm6QYnhfUgnid/RW9FAt7Y=
 
-lodash@^4.0.0, lodash@^4.11.1, lodash@^4.15.0, lodash@^4.16.4, lodash@^4.17.10, lodash@^4.17.2, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.2.0, lodash@^4.2.1, lodash@^4.3.0, lodash@^4.5.0, lodash@^4.6.1:
+lodash@^4.0.0, lodash@^4.11.1, lodash@^4.15.0, lodash@^4.16.4, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.2, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.2.0, lodash@^4.2.1, lodash@^4.3.0, lodash@^4.5.0, lodash@^4.6.1:
   version "4.17.11"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
   integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
@@ -8771,7 +8782,7 @@ react-hot-loader@^4.3.10:
     react-lifecycles-compat "^3.0.4"
     shallowequal "^1.0.2"
 
-react-intl@^2.4.0, react-intl@^2.5.0:
+react-intl@^2.4.0, react-intl@^2.5.0, react-intl@^2.7.1:
   version "2.7.2"
   resolved "https://registry.yarnpkg.com/react-intl/-/react-intl-2.7.2.tgz#efe97e3fc0e99b4e88a6e6150854d3d1852a4381"
   integrity sha512-3dcNGLqEw2FKkX+1L2WYLgjP0MVJkvWuVd1uLcnwifIQe8JQvnd9Bss4hb4Gvg/YhBIRcs4LM6C2bAgyklucjw==
@@ -9048,7 +9059,7 @@ reduce-css-calc@^2.0.0:
     css-unit-converter "^1.1.1"
     postcss-value-parser "^3.3.0"
 
-redux-form@^7.0.3, redux-form@^7.3.0:
+redux-form@^7.0.3, redux-form@^7.3.0, redux-form@^7.4.2:
   version "7.4.2"
   resolved "https://registry.yarnpkg.com/redux-form/-/redux-form-7.4.2.tgz#d6061088fb682eb9fc5fb9749bd8b102f03154b0"
   integrity sha512-QxC36s4Lelx5Cr8dbpxqvl23dwYOydeAX8c6YPmgkz/Dhj053C16S2qoyZN6LO6HJ2oUF00rKsAyE94GwOUhFA==
