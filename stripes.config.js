@@ -12,10 +12,7 @@ module.exports = {
     hasAllPerms: true
   },
   modules: {
-    '@folio/erm': {},
     '@folio/erm-usage': {},
-    '@folio/licenses': {},
-    '@folio/orders': {},
     '@folio/plugin-find-user': {},
     '@folio/plugin-find-vendor': {},
     '@folio/tags': {},
